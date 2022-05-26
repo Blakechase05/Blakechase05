@@ -1,9 +1,9 @@
-#Hello!,
-##I'm Blake, a highschool student interested in Computer Science and Engineering
+# Hello!,
+## I'm Blake, a highschool student interested in Computer Science and Engineering
 
-##**Now:**
+## **Now:**
 - Robot code for my school's FRC team
 - Learning Data Structures and Algorithms
 
-Goals:
+## **Goals:**
 - Take over the world
