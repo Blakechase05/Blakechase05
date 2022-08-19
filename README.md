@@ -1,21 +1,4 @@
-# Hello!,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Hello!
 
 ## **Goals:**
 - Take over the world
