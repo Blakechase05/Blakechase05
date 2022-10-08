@@ -4,7 +4,7 @@
   My name is Blake, I’m a highschool student interested in Electrical Engineering and Computer Science 💻
 </p>
 
-<h4 align="center">
+<h4>
   PAST:
 </h4>
 <ul>
@@ -12,7 +12,7 @@
   2022 First Robotics Competition Rapid React Season
 </ul>
 
-<h4 align="center">
+<h4>
 PRESENT:
 </h4>
 <ul>
@@ -20,7 +20,7 @@ ATAR Exams
 2023 First Robotics Competition ChargedUp Season
 </ul>
 
-<h4 align="center">
+<h4>
 FUTURE:
 </h4>
 <ul>
