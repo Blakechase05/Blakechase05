@@ -1,4 +1,4 @@
-<title> Hi! It's Nice to Meet You :] </title>
+<h3> Hi! It's Nice to Meet You :] </h3>
 ### My name is Blake, I’m a highschool student living in Perth, Western Australia, interested in Electrical Engineering and Computer Science
 
 #### PAST:
