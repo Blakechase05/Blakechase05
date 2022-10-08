@@ -30,5 +30,5 @@
   FUTURE:
 </h4>
 <ul>
-  <li>🌎Take over the world</li>
+  🌎 Take over the world
 </ul>
