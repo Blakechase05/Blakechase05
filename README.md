@@ -1,7 +1,7 @@
 # Hi! It's Nice to Meet You :]
 ## My name is Blake, 
-##I’m a highschool student living in Perth, Western Australia, 
-##interested in Electrical Engineering and Computer Science
+## I’m a highschool student living in Perth, Western Australia, 
+## interested in Electrical Engineering and Computer Science
 
 ## PAST:
 - 2021 First Robotics Competition Infinite Recharge Season
