@@ -1,11 +1,11 @@
-<header>
-<h3 align="center"> Hi there 👋 </h3>
+<head>
+<h3 align="center"> Hi There! 👋 </h3>
 
 <p align="center"> 
   My name is Blake, I’m a highschool student interested in: <br>
   Electrical Engineering 💡 and Computer Science 💻
 </p>
-</header>
+</head>
 
 <!-- past section -->
 <h4>
