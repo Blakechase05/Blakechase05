@@ -36,6 +36,6 @@
   🌎Take over the world
 </p>
 
-<div text-align:center>
+<div style="margin:auto; text-align:center; display:block;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">find more about me here! :)</a> </center>
 </div>
