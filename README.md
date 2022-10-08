@@ -2,7 +2,8 @@
 <h3 align="center"> Hi there 👋 </h3>
 
 <p align="center"> 
-  My name is Blake, I’m a highschool student interested in Electrical Engineering 💡 and Computer Science 💻
+  My name is Blake, I’m a highschool student interested in: <br>
+  Electrical Engineering 💡 and Computer Science 💻
 </p>
 </header>
 
@@ -12,7 +13,7 @@
 </h4>
 
 <p>
-  ⚡ 2021 First Robotics Competition Infinite Recharge Season
+  ⚡ 2021 First Robotics Competition Infinite Recharge Season <br>
   🚊 2022 First Robotics Competition Rapid React Season
 </p>
 
@@ -22,7 +23,7 @@
 </h4>
 
 <p>
-  📚 ATAR Exams
+  📚 ATAR Exams <br>
   🔋 2023 First Robotics Competition ChargedUp Season
 </p>
 
