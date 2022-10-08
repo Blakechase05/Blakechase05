@@ -8,8 +8,8 @@
   PAST:
 </h4>
 <ul>
-  2021 First Robotics Competition Infinite Recharge Season
-  2022 First Robotics Competition Rapid React Season
+  - 2021 First Robotics Competition Infinite Recharge Season
+  - 2022 First Robotics Competition Rapid React Season
 </ul>
 
 <h4>
