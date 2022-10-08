@@ -11,24 +11,26 @@
   PAST:
 </h4>
 
-<ul>
-  <li>2021 First Robotics Competition Infinite Recharge Season</li>
-  <li>2022 First Robotics Competition Rapid React Season</li>
-</ul>
+<p>
+  ⚡ 2021 First Robotics Competition Infinite Recharge Season
+  🚊 2022 First Robotics Competition Rapid React Season
+</p>
 
 <!-- present section -->
 <h4>
   PRESENT:
 </h4>
-<ul>
-  <li>ATAR Exams</li>
-  <li>2023 First Robotics Competition ChargedUp Season</li>
-</ul>
+
+<p>
+  📚 ATAR Exams
+  🔋 2023 First Robotics Competition ChargedUp Season
+</p>
 
 <!-- future section -->
 <h4>
   FUTURE:
 </h4>
-<ul>
-  🌎 Take over the world
-</ul>
+
+<p>  
+  🌎Take over the world
+</p>
