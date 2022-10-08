@@ -1,15 +1,15 @@
 # Hi! It's Nice to Meet You :]
-## My name is Blake, 
-## I’m a highschool student living in Perth, Western Australia, 
-## interested in Electrical Engineering and Computer Science
+### My name is Blake, 
+### I’m a highschool student living in Perth, Western Australia, 
+### interested in Electrical Engineering and Computer Science
 
-## PAST:
+#### PAST:
 - 2021 First Robotics Competition Infinite Recharge Season
 - 2022 First Robotics Competition Rapid React Season
 
-## PRESENT:
+#### PRESENT:
 - ATAR Exams
 - 2023 First Robotics Competition ChargedUp Season
 
-## FUTURE:
+#### FUTURE:
 - Take over the world
