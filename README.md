@@ -23,7 +23,6 @@
 </h4>
 
 <p>
-  📚 ATAR Exams <br>
   🔋 2023 First Robotics Competition ChargedUp Season
 </p>
 
