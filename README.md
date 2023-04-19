@@ -2,8 +2,7 @@
 <h3 align="center"> Hi There! 👋 </h3>
 
 <p align="center"> 
-  My name is Blake, I’m a highschool student interested in: <br>
-  Electrical Engineering 💡 and Computer Science 💻
+  My name is Blake, I'm an electrical engineering and computer science student <br>
 </p>
 </head>
 
