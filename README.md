@@ -14,6 +14,7 @@
 <p>
   ⚡ 2021 First Robotics Competition Infinite Recharge Season <br>
   🚊 2022 First Robotics Competition Rapid React Season
+  🔋 2023 First Robotics Competition ChargedUp Season
 </p>
 
 <!-- present section -->
@@ -22,7 +23,7 @@
 </h4>
 
 <p>
-  🔋 2023 First Robotics Competition ChargedUp Season
+  🤷
 </p>
 
 <!-- future section -->
